@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+#background1 {
+    background-image: url(https://blush.design/api/download?shareUri=ssv-kpzBdl1egiY9&c=Bottom_0%7E89c5cc-0.1%7E2b44ff-0.2%7E393f82-0.3%7E2b44ff_Hair_0%7Eb58143-0.1%7E4a312c-0.2%7E4a312c-0.3%7E4a312c_Skin_0%7Eb28b67-0.1%7Edcae92-0.2%7E57331f-0.3%7Ed4a181_Top_0%7Ef2f2f2-0.1%7Effa434-0.2%7Eff4133-0.3%7Ea8e5ba&w=800&h=800&fm=png);
+    height: 50vh;
+    width: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#topsection {
+    width: 70vh;
+    padding: 20px;
+}
+#page2 {
+    display: none;
+}
+#page3 {
+    display: none;
+}
+.nn {
+    border-radius: 2em;
+   
+}
+.ss {
+    border-radius: 24px 12px;
+    padding: 10px;
+    background-color:#961ba9 ;
+}  
+.header1 {
+    font-size: 60px;
+    line-height: 1.5;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+} 
+.sv {
+    border-radius: 25px;
+}   
+.p1 {
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}  
+.dd {
+    background-color: #961ba9;
+    height: 100vh;
+  
+}                        
+.st {
+    color: white;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 70px;
+
+}
+.easy {
+    color: white;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+   margin: auto;
+   padding-left: 5em;
+}
+.ro {
+    margin-left: 40px;
+    transform: translateY(-70px);
+    position: relative;
+}
+.af {
+   transform: translateY(-135px);
+   margin-left: 150px ; 
+   position: relative;
+
+}
+.sn {
+    color: white;
+    font-size: 17px;
+    font-weight: 300;
+}
+.bt {
+    border-radius: 24px 12px ;
+    width: 250px;
+    height: 40px;
+    margin-left: 500px;
+    background-color: #d9cbdb;
+    border:none;
+    color:#961ba9;
+}
+.footer {
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: #961ba9;
+    height: 50vh;
+}
+
+.footer p {
+    padding: 20px;
+    margin-left: 10px;
+    line-height: 2;
+    font-size: 15px;
+    margin-top: 20px;
+
+
+}
+.footer img {
+    margin-top: 40px;
+    margin-left: 25px;
+}
+.wh {
+    height: 80vh;
+}
+.wh h2 {
+    padding-left: 30px;
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 1.0;
+    color:rgb(65, 63, 63);
+    
+}
+.wh p {
+    padding-left: 30px;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    
+    font-size: 15px;
+    font-weight: lighter;
+
+}
+.im {
+    transform: translateY(130px);
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    color: lightgray;
+}
+a:hover {
+    color: white;
+}
+.me{
+    /* position: absolute; */
+    position: sticky;
+    margin-top: -20px;
+    z-index: 8;
+}
+
+.pen {
+     /* height: 60px; */
+    width: 110px; 
+    background-color: #961ba9;
+    color:lightgray;
+    border:none;
+    border-radius: 10px;
+  
+}
+
+#page2 h1 {
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    
+    
+}
+#page3 h1 {
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    
+    
+}
+.icons {
+     padding: 50px;
+     margin-left: 20px; 
+     padding-bottom: 0;
+}
+.sif {
+    margin-left: 120px;
+    margin-top: 60px;
+    border-radius: 13px;
+    border-style:outset;
+    /* border-width: 700px; */
+
+}
+.hum img {
+    margin-top:70px;
+    margin-left: 250px;
+    
+}
+.ws img {
+    margin-left: 300px;
+    margin-top: 30px;
+  
+    
+}
+.sayi {
+    transform: translateY(-350px);
+    margin-left:850px;
+}
+.saye {
+    transform: translateY(-300px);
+    margin-left:650px;
+}
+.cas {
+    transform: translateY(-600px);
+    margin-left:1050px;
+}
+.says {
+    transform: translateY(-300px);
+    margin-left:850px;
+}
+.point1 {
+    transform: translateY(-400px);
+    margin-left: 600px;
+    transform: rotate(20deg);
+
+}
+
+
